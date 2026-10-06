@@ -1,1 +1,1 @@
-Example application setting: version 1
+Example application setting: version 2
