@@ -1,0 +1,1 @@
+Example application setting: version 1
